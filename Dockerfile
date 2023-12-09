@@ -1,4 +1,4 @@
-FROM maven 3.6.3-openjdk:latest 
+FROM openjdk:latest 
 
 WORKDIR /usr/src/app
 
